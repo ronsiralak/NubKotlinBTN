@@ -1,0 +1,2 @@
+rootProject.name = "Fake Chat"
+include ':app'
