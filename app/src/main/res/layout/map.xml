@@ -18,20 +18,20 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="250px"
-        android:layout_marginTop="600px"
+        android:layout_marginTop="660px"
         android:text="open map Food"/>
     <Button
         android:id="@+id/buttonMapShop"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="750px"
-        android:layout_marginTop="600px"
+        android:layout_marginTop="660px"
         android:text="open map Shop"/>
     <Button
         android:id="@+id/buttonMapMovie"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="1250px"
-        android:layout_marginTop="600px"
+        android:layout_marginTop="660px"
         android:text="open map Movie"/>
 </RelativeLayout>

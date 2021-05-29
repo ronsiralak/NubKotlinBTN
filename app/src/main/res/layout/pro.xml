@@ -18,20 +18,20 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="250px"
-        android:layout_marginTop="600px"
+        android:layout_marginTop="660px"
         android:text="open pro Food"/>
     <Button
         android:id="@+id/buttonProShop"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="750px"
-        android:layout_marginTop="600px"
+        android:layout_marginTop="660px"
         android:text="open pro Shop"/>
     <Button
         android:id="@+id/buttonProMovie"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="1250px"
-        android:layout_marginTop="600px"
+        android:layout_marginTop="660px"
         android:text="open pro Movie"/>
 </RelativeLayout>
